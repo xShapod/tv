@@ -139,7 +139,7 @@ http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
 https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=YqHinGfh7WysJ_2nzkSpRA&expires=1734388862&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkR9B8oQ7I-2MQvDxDrn7iV-nEk13jiwIZjA&usqp=CAU" tvg-id="<built-in function id>" group-title="Bangla",Zee Bangla
-https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=cWmpXYswCHQg_j4g8vbjdQ&expires=1734388899&user=d477246e9e724f81a011b847457e71c4
+http://172.16.172.114:8083/ZeeBanglaHD/index.fmp4.m3u8?token=a7fa804050747848a41bc1aaa464b3905f7e6df0-41fc0b973ffdb7da0c13d23c6821d44b-1741922510-1741911710
 
 #EXTINF:-1 tvg-name="Zee Cinema" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_cinema.png" tvg-id="<built-in function id>" group-title="Bangla",Zee Cinema
 https://edge01.iptv.digijadoo.net/live/zee_cinema_hd/playlist.m3u8?md5=zsIlSZ2j-casB2EDxTPhMw&expires=1734388907&user=d477246e9e724f81a011b847457e71c4
