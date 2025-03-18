@@ -125,7 +125,10 @@ http://172.16.172.114:8083/ZeeBanglaHD/index.fmp4.m3u8?token=a7fa804050747848a41
 https://edge01.iptv.digijadoo.net/live/zee_cinema_hd/playlist.m3u8?md5=zsIlSZ2j-casB2EDxTPhMw&expires=1734388907&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1 tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-id="<built-in function id>" group-title="Bangla",Star Jalsha
-http://172.16.172.114:8083/StarJalshaHD/index.fmp4.m3u8?token=d57326cf4d8ee733eb89c64743830005b31a0ae6-cfb3488247ec76a76325ad9a96bd18c7-1741924890-1741914090
+http://103.122.74.6:8888/hls/starJalsha.m3u8
+
+EXTINF:-1 tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-id="<built-in function id>" group-title="Bangla",Star Jalsha
+https://bdlivestreaming.xyz/Ktv/op/245898/playlist.m3u8
 
 #EXTINF:-1 tvg-name="MACAU Lotus" tvg-logo="https://edge01.iptv.digijadoo.net/static/macau_lotus.png" tvg-id="<built-in function id>" group-title="Bangla",MACAU Lotus
 https://edge01.iptv.digijadoo.net/live/macau_lotus/playlist.m3u8?md5=U5gYiBgzZfzFVOz0oj3b3w&expires=1734388787&user=d477246e9e724f81a011b847457e71c4
