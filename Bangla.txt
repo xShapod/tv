@@ -113,6 +113,3 @@ https://edge01.iptv.digijadoo.net/live/zee_cinema_hd/playlist.m3u8?md5=zsIlSZ2j-
 
 #EXTINF:-1 tvg-name="Star Jalsha" tvg-logo="https://i.ibb.co/VBKhBmy/20240815-181253.png" tvg-id="<built-in function id>" group-title="Bangla",Star Jalsha HD
 http://103.122.74.6:8888/hls/starJalsha.m3u8
-
-EXTINF:-1 tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-id="<built-in function id>" group-title="Bangla",Star Jalsha HD
-https://bdlivestreaming.xyz/Ktv/op/245898/playlist.m3u8
