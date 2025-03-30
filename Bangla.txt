@@ -31,7 +31,7 @@ http://103.163.247.39/local_out/bijoytv/video.m3u8?token=At5F1MFZYnciB3
 
 
 #EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_24.png" tvg-id="<built-in function id>" group-title="BDIX",Channel 24
-http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
+103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png" tvg-id="<built-in function id>" group-title="BDIX",Channel 9
 
@@ -85,7 +85,7 @@ https://mytvbangla.com/0.m3u8
 http://103.230.105.252:1935/live/ntv/manifest.m3u8
 
 #EXTINF:-1 tvg-name="Nagorik TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/nagorik_tv.png" tvg-id="<built-in function id>" group-title="BDIX",Nagorik TV
-
+http://103.122.74.6:8888/hls/NAGORIK.TV.HD.m3u8
 
 #EXTINF:-1 tvg-name="News 24 HD" tvg-logo="https://edge01.iptv.digijadoo.net/static/news_24_hd.png" tvg-id="<built-in function id>" group-title="BDIX",News 24 HD
 http://103.163.247.39/local_out/news24bd/video.m3u8?token=At5F1MFZYnciB3
@@ -106,12 +106,26 @@ https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 tvg-name="T Sports HD 2" tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png" tvg-id="<built-in function id>" group-title="BDIX",T Sports HD
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkR9B8oQ7I-2MQvDxDrn7iV-nEk13jiwIZjA&usqp=CAU" tvg-id="<built-in function id>" group-title="NON-BDIX",Zee Bangla
-https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
+
+#KOLKATA
+
+#EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkR9B8oQ7I-2MQvDxDrn7iV-nEk13jiwIZjA&usqp=CAU" tvg-id="<built-in function id>" group-title="BDIX",Zee Bangla
+http://kst.moonplex.net:8080/CH4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Zee Cinema" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_cinema.png" tvg-id="<built-in function id>" group-title="BDIX",Zee Cinema
 
 
-#EXTINF:-1 tvg-name="Star Jalsha" tvg-logo="https://i.ibb.co/VBKhBmy/20240815-181253.png" tvg-id="<built-in function id>" group-title="BDIX",Star Jalsha HD
+#EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://i.ibb.co/VBKhBmy/20240815-181253.png" tvg-id="<built-in function id>" group-title="BDIX",Star Jalsha HD
 http://103.122.74.6:8888/hls/starJalsha.m3u8
 
+#EXTINF:-1 tvg-name="Star Jalsha" tvg-logo="https://i.ibb.co/VBKhBmy/20240815-181253.png" tvg-id="<built-in function id>" group-title="BDIX",Star Jalsha
+http://kst.moonplex.net:8080/CH3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Colors Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png" tvg-id="<built-in function id>" group-title="BDIX",Colors Bangla
+https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
+
+#EXTINF:-1 tvg-name="Sun Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" tvg-id="<built-in function id>" group-title="BDIX",Sun Bangla
+http://103.122.74.6:8888/hls/SUN.BANGLA.HD.m3u8
+
+#EXTINF:-1 tvg-name="Sony Aat" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Sony_Aath_new.png/300px-Sony_Aath_new.png" tvg-id="<built-in function id>" group-title="BDIX",Sony Aat
+http://103.122.74.6:8888/hls/SONY.AAT.m3u8
