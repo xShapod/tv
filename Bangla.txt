@@ -1,7 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png" tvg-id="<built-in function id>" group-title="NON-BDIX",ATN Bangla
-http://xtv.ooo:8080/live/Behraam223/8237588/245909.ts
+http://isp.top10bhaluka.com/tv/stream.m3u8?id=ATN-BANGLA
+#http://xtv.ooo:8080/live/Behraam223/8237588/245909.ts
 
 #EXTINF:-1 tvg-name="ATN News" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png" tvg-id="<built-in function id>" group-title="BDIX",ATN News
 http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
@@ -11,6 +12,9 @@ http://103.163.247.39/local_out/asiantv/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-1 tvg-name="Ananda Tv" tvg-logo="https://edge01.iptv.digijadoo.net/static/asian_tv.png" tvg-id="<built-in function id>" group-title="BDIX",Ananda TV
 http://103.163.247.39/local_out/anandatv/video.m3u8?token=At5F1MFZYnciB3
+
+#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/440px-Bangladesh_Television_Logo.svg.png" tvg-id="<built-in function id>" group-title="NON-BDIX",BTV
+http://103.230.105.252:1935/live/btv/index.m3u8
 
 #EXTINF:-1 tvg-name="BTV News" tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" tvg-id="<built-in function id>" group-title="BDIX",BTV News
 http://103.163.247.39/local_out/btv/video.m3u8?token=At5F1MFZYnciB3
@@ -31,12 +35,14 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png" tvg-id="<built-in function id>" group-title="BDIX",Channel 9
+http://103.163.247.39/local_out/channel9/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png" tvg-id="<built-in function id>" group-title="NON-BDIX",Channel 9
 https://streamingxfireflix.vercel.app/api/stream?id=245903.m3u8
 
 #EXTINF:-1 tvg-name="Channel I" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png" tvg-id="<built-in function id>" group-title="BDIX",Channel I
 http://103.163.247.39/local_out/channeli/video.m3u8?token=At5F1MFZYnciB3
 
-#EXTINF:-1 tvg-name="DBC News" tvg-logo="https://edge01.iptv.digijadoo.net/static/dbc_news.png" tvg-id="<built-in function id>" group-title="BDIX",DBC News
+#EXTINF:-1 tvg-name="DBC News" tvg-logo="https://edge01.iptv.digijadoo.net/static/dbc_news.png" tvg-id="<built-in function id>" group-title="NON-BDIX",DBC News
 https://streamingxfireflix.vercel.app/api/stream?id=245914.m3u8
 
 #EXTINF:-1 tvg-name="Deepto TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/deepto_tv.png" tvg-id="<built-in function id>" group-title="BDIX",Deepto TV
@@ -46,10 +52,10 @@ https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 
 
 #EXTINF:-1 tvg-name="Duronto TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/duronto_tv.png" tvg-id="<built-in function id>" group-title="BDIX",Duronto TV
+http://kst.moonplex.net:8080/CH12/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Deshi TV" tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" tvg-id="<built-in function id>" group-title="NON-BDIX",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-
 
 #EXTINF:-1 tvg-name="Ekattor TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ekattor_tv.png" tvg-id="<built-in function id>" group-title="BDIX",Ekattor TV
 http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
@@ -60,14 +66,7 @@ https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-name="Ekhon TV" tvg-logo="https://ekhon.tv/logo.png" tvg-id="<built-in function id>" group-title="BDIX",Ekhon TV
 http://103.163.247.39/local_out/ekhontv/video.m3u8?token=At5F1MFZYnciB3
 
-#EXTINF:-1 tvg-name="Gaan Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/gaan_bangla.png" tvg-id="<built-in function id>" group-title="BDIX",Gaan Bangla
-
-
 #EXTINF:-1 tvg-name="Gazi TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" tvg-id="<built-in function id>" group-title="BDIX",Gazi TV
-
-
-#EXTINF:-1 tvg-name="Green Tv" tvg-logo="https://edge01.iptv.digijadoo.net/static/asian_tv.png" tvg-id="<built-in function id>" group-title="BDIX",Green Tv
-
 
 #EXTINF:-1 tvg-name="Independent TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/independent_tv.png" tvg-id="<built-in function id>" group-title="BDIX",Independent TV
 http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3
@@ -99,6 +98,7 @@ http://103.163.247.39/local_out/news24bd/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Nexus TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/nexus_tv.png" tvg-id="<built-in function id>" group-title="BDIX",Nexus TV
 
 #EXTINF:-1 tvg-name="RTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/rtv.png" tvg-id="<built-in function id>" group-title="BDIX",RTV
+http://103.163.247.39/local_out/rtv/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-1 tvg-name="SA TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/sa_tv.png" tvg-id="<built-in function id>" group-title="BDIX",SA TV
 
