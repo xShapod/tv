@@ -1,6 +1,9 @@
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://i.ibb.co/VBKhBmy/20240815-181253.png" tvg-id="<built-in function id>" group-title="BDIX",Star Jalsha HD
 http://172.16.172.114:8083/StarJalshaHD/index.fmp4.m3u8?token=f1c851793757b1c30264837b430811717aab9dc6-19b75b8d0b957debb59f945e6e0105ed-1746645145-1746634345
 
+#EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkR9B8oQ7I-2MQvDxDrn7iV-nEk13jiwIZjA&usqp=CAU" tvg-id="<built-in function id>" group-title="BDIX",Zee Bangla
+http://172.16.172.114:8083/ZeeBanglaHD/index.fmp4.m3u8?token=e231b6503bf21ee1d083f82f2bb6c2a815249003-65ad6ca607af237b9c1ff8d3246a557d-1746714969-1746704169
+
 #EXTINF:-1 tvg-name="Star Jalsha HD 2" tvg-logo="https://i.ibb.co/VBKhBmy/20240815-181253.png" tvg-id="<built-in function id>" group-title="BDIX",Star Jalsha HD 2
 http://103.122.74.6:8888/hls/starJalsha.m3u8
 
