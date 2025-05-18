@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://i.ibb.co/VBKhBmy/20240815-181253.png" tvg-id="<built-in function id>" group-title="BDIX",Star Jalsha HD
-http://172.16.172.114:8083/StarJalshaHD/index.fmp4.m3u8?token=d6f76ad470640b07c02cd9b21a42ba486410329a-8485376d4c291f9a6735154804c45219-1747594816-1747584016
+http://172.16.172.114:8083/StarJalshaHD/index.fmp4.m3u8?token=7c4528293400149068cb3eee78ef07593a9242a8-f79ea40a9343cffea82594b14d1eef2e-1747594938-1747584138
 
 #EXTINF:-1 tvg-name="Star Jalsha HD 2" tvg-logo="https://i.ibb.co/VBKhBmy/20240815-181253.png" tvg-id="<built-in function id>" group-title="BDIX",Star Jalsha HD 2
 http://103.122.74.6:8888/hls/starJalsha.m3u8
