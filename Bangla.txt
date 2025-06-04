@@ -22,7 +22,7 @@ http://103.163.247.39/local_out/btv/video.m3u8?token=At5F1MFZYnciB3
 http://103.163.247.39/local_out/banglatv/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_vision.png" tvg-id="<built-in function id>" group-title="BDIX",Bangla Vision
-http://103.163.247.39/local_out/banglavision/video.m3u8?token=At5F1MFZYnciB3
+http://103.73.106.86:3255/BanglaV/index.m3u8
 
 #EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/bijoy_tv.png" tvg-id="<built-in function id>" group-title="BDIX",Bijoy TV
 http://103.163.247.39/local_out/bijoytv/video.m3u8?token=At5F1MFZYnciB3
@@ -31,7 +31,7 @@ http://103.163.247.39/local_out/bijoytv/video.m3u8?token=At5F1MFZYnciB3
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_24.png" tvg-id="<built-in function id>" group-title="BDIX",Channel 24
-http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
+http://103.73.106.86:3255/CH24/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png" tvg-id="<built-in function id>" group-title="BDIX",Channel 9
 http://103.163.247.39/local_out/channel9/video.m3u8?token=At5F1MFZYnciB3
@@ -39,7 +39,7 @@ http://103.163.247.39/local_out/channel9/video.m3u8?token=At5F1MFZYnciB3
 https://streamingxfireflix.vercel.app/api/stream?id=245903.m3u8
 
 #EXTINF:-1 tvg-name="Channel I" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png" tvg-id="<built-in function id>" group-title="BDIX",Channel I
-http://103.163.247.39/local_out/channeli/video.m3u8?token=At5F1MFZYnciB3
+http://103.73.106.86:3255/chnnel-i/index.m3u8
 
 #EXTINF:-1 tvg-name="DBC News" tvg-logo="https://edge01.iptv.digijadoo.net/static/dbc_news.png" tvg-id="<built-in function id>" group-title="NON-BDIX",DBC News
 https://streamingxfireflix.vercel.app/api/stream?id=245914.m3u8
@@ -71,10 +71,8 @@ http://103.163.247.39/local_out/ekhontv/video.m3u8?token=At5F1MFZYnciB3
 http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-1 tvg-name="Jamuna TV HD" tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" tvg-id="<built-in function id>" group-title="BDIX",Jamuna TV HD
-http://103.163.247.39/local_out/jamunatv/video.m3u8?token=At5F1MFZYnciB3
+http://103.73.106.86:3255/JAMUNATV/index.m3u8
 
-#EXTINF:-1 tvg-name="Jamuna TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" tvg-id="<built-in function id>" group-title="NON-BDIX",Jamuna TV
-http://xtv.ooo:8080/danyear12/am809100/245917
 
 #EXTINF:-1 tvg-name="Maasranga" tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png" tvg-id="<built-in function id>" group-title="NON-BDIX",Maasranga
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
