@@ -31,12 +31,11 @@ http://103.163.247.39/local_out/bijoytv/video.m3u8?token=At5F1MFZYnciB3
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_24.png" tvg-id="<built-in function id>" group-title="BDIX",Channel 24
-http://103.73.106.86:3255/CH24/tracks-v1a1/mono.ts.m3u8
+http://103.73.106.86:3255/CH24/index.m3u8
 
 #EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png" tvg-id="<built-in function id>" group-title="BDIX",Channel 9
-http://103.163.247.39/local_out/channel9/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png" tvg-id="<built-in function id>" group-title="NON-BDIX",Channel 9
-https://streamingxfireflix.vercel.app/api/stream?id=245903.m3u8
+http://103.73.106.86:3255/ch9_nk/index.m3u8
+
 
 #EXTINF:-1 tvg-name="Channel I" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png" tvg-id="<built-in function id>" group-title="BDIX",Channel I
 http://103.73.106.86:3255/chnnel-i/index.m3u8
@@ -48,7 +47,7 @@ https://streamingxfireflix.vercel.app/api/stream?id=245914.m3u8
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 
 #EXTINF:-1 tvg-name="Desh TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4CfF8DO73YRrwEy8BaKuc769Th5lZI9d5NVCVHoxEPWnGiqHtl35S2PC8&s=10" tvg-id="<built-in function id>" group-title="BDIX",Desh TV
-
+http://103.73.106.86:3255/DeshTV/index.m3u8
 
 #EXTINF:-1 tvg-name="Duronto TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/duronto_tv.png" tvg-id="<built-in function id>" group-title="BDIX",Duronto TV
 http://kst.moonplex.net:8080/CH12/tracks-v1a1/mono.m3u8
@@ -57,13 +56,13 @@ http://kst.moonplex.net:8080/CH12/tracks-v1a1/mono.m3u8
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ekattor TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ekattor_tv.png" tvg-id="<built-in function id>" group-title="BDIX",Ekattor TV
-http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
+http://103.73.106.86:3255/ekattor_nk/index.m3u8
 
 #EXTINF:-1 tvg-name="Ekushey TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png" tvg-id="<built-in function id>" group-title="NON-BDIX",Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
 
 #EXTINF:-1 tvg-name="Ekhon TV" tvg-logo="https://ekhon.tv/logo.png" tvg-id="<built-in function id>" group-title="BDIX",Ekhon TV
-http://103.163.247.39/local_out/ekhontv/video.m3u8?token=At5F1MFZYnciB3
+http://103.73.106.86:3255/EKHONTV/index.m3u8
 
 #EXTINF:-1 tvg-name="Gazi TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" tvg-id="<built-in function id>" group-title="BDIX",Gazi TV
 
@@ -84,13 +83,13 @@ https://streamingxfireflix.vercel.app/api/stream?id=245920.m3u8
 https://mytvbangla.com/0.m3u8
 
 #EXTINF:-1 tvg-name="NTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ntv.png" tvg-id="<built-in function id>" group-title="BDIX",NTV
-http://103.230.105.252:1935/live/ntv/manifest.m3u8
+http://103.73.106.86:3255/NTVLive1/index.m3u8
 
 #EXTINF:-1 tvg-name="Nagorik TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/nagorik_tv.png" tvg-id="<built-in function id>" group-title="BDIX",Nagorik TV
 http://103.122.74.6:8888/hls/NAGORIK.TV.HD.m3u8
 
 #EXTINF:-1 tvg-name="News 24 HD" tvg-logo="https://edge01.iptv.digijadoo.net/static/news_24_hd.png" tvg-id="<built-in function id>" group-title="BDIX",News 24 HD
-http://103.163.247.39/local_out/news24bd/video.m3u8?token=At5F1MFZYnciB3
+http://103.73.106.86:3255/NEWS24LIVE/index.m3u8
 
 #EXTINF:-1 tvg-name="Nexus TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/nexus_tv.png" tvg-id="<built-in function id>" group-title="BDIX",Nexus TV
 
@@ -101,7 +100,7 @@ http://103.163.247.39/local_out/rtv/video.m3u8?token=At5F1MFZYnciB3
 
 
 #EXTINF:-1 tvg-name="Somoy News" tvg-logo="https://edge01.iptv.digijadoo.net/static/somoy_news.png" tvg-id="<built-in function id>" group-title="BDIX",Somoy News
-http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
+http://103.73.106.86:3255/somyyt/index.m3u8
 
 #EXTINF:-1 tvg-name="T Sports HD 1" tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png" tvg-id="<built-in function id>" group-title="BDIX",T Sports HD
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
