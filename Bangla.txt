@@ -119,7 +119,8 @@ https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 ####KOLKATA
 
 #EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkR9B8oQ7I-2MQvDxDrn7iV-nEk13jiwIZjA&usqp=CAU" tvg-id="<built-in function id>" group-title="BDIX",Zee Bangla
-http://kst.moonplex.net:8080/CH4/tracks-v1a1/mono.m3u8
+http://103.73.106.86:3255/ZeeBangla/index.m3u8
+
 #EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkR9B8oQ7I-2MQvDxDrn7iV-nEk13jiwIZjA&usqp=CAU" tvg-id="<built-in function id>" group-title="NON-BDIX",Zee Bangla
 https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 
@@ -138,7 +139,7 @@ https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
 http://103.122.74.6:8888/hls/SUN.BANGLA.HD.m3u8
 
 #EXTINF:-1 tvg-name="Sony Aat" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Sony_Aath_new.png/300px-Sony_Aath_new.png" tvg-id="<built-in function id>" group-title="BDIX",Sony Aat
-http://103.122.74.6:8888/hls/SONY.AAT.m3u8
+http://103.73.106.86:3255/SonyAath/index.m3u8
 
 #EXTINF:-1 tvg-name="Tara Bangla Cinema" tvg-logo="" tvg-id="<built-in function id>" group-title="NON-BDIX",Tara Bangla Cinema
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
