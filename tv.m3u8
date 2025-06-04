@@ -9,4 +9,4 @@ http://kst.moonplex.net:8080/CH3/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkR9B8oQ7I-2MQvDxDrn7iV-nEk13jiwIZjA&usqp=CAU" tvg-id="<built-in function id>" group-title="BDIX",Zee Bangla
-http://172.16.172.114:8083/ZeeBanglaHD/index.fmp4.m3u8?token=fca5807c10659fc6e66bd4b7f57a6459702eedb7-594301014641a2e29141c44f7915675c-1747595589-1747584789
+http://103.73.106.86:3255/ZeeBangla/index.m3u8
