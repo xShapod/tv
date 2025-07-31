@@ -1,3 +1,6 @@
+#EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkR9B8oQ7I-2MQvDxDrn7iV-nEk13jiwIZjA&usqp=CAU" tvg-id="<built-in function id>" group-title="BDIX",Zee Bangla
+http://172.16.172.115:3255/ZeeBangla/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://i.ibb.co/VBKhBmy/20240815-181253.png" tvg-id="<built-in function id>" group-title="BDIX",Star Jalsha HD
 http://103.73.106.86:3255/star_jolsha/index.m3u8
 
@@ -6,7 +9,3 @@ http://38.96.178.201/live/STARJALSHA/index.m3u8
 
 #EXTINF:-1 tvg-name="Star Jalsha" tvg-logo="https://i.ibb.co/VBKhBmy/20240815-181253.png" tvg-id="<built-in function id>" group-title="BDIX",Star Jalsha
 http://kst.moonplex.net:8080/CH3/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkR9B8oQ7I-2MQvDxDrn7iV-nEk13jiwIZjA&usqp=CAU" tvg-id="<built-in function id>" group-title="BDIX",Zee Bangla
-http://103.73.106.86:3255/ZeeBangla/index.m3u8
